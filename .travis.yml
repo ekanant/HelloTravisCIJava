@@ -7,8 +7,8 @@ addons:
 
 jdk:
   - openjdk6
-  - openjdk7
-  - oraclejdk8
+#  - openjdk7
+#  - oraclejdk8
 
 install:
   - echo "Downloading Maven 3.0";
