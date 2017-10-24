@@ -16,4 +16,10 @@ public class AppTest
     {
         assertEquals(true, true);
     }
+	
+	@Test
+	public void impossibleCase()
+	{
+		assertEquals(true, false);
+	}
 }
