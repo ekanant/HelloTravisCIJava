@@ -1,5 +1,8 @@
 language: java
 
+notifications:
+    slack: ekanant:pTpIehw4cHAzWzIcqDLBCII8
+
 addons:
   apt:
     packages:
